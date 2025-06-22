@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Diwakar! 👋
 
-<!--
-**programerdiwakar/programerdiwakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student** passionate about technology and building impactful projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Project
+
+[![Animated-React-Website-](https://github-readme-stats.vercel.app/api/pin/?username=programerdiwakar&repo=Animated-React-Website-&theme=react)](https://github.com/programerdiwakar/Animated-React-Website-)
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/diwakarsingh-a1817a2ba/)
+
+---
+
+*Always learning, always coding!*
