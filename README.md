@@ -13,6 +13,7 @@
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/diwakarsingh-a1817a2ba/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=internet-explorer&style=flat-square)](https://diwakrport.netlify.app/)
 
 ---
 
