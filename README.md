@@ -5,6 +5,7 @@
 ## 🚀 Skills
 - **MERN Stack** (MongoDB, Express.js, React, Node.js)
 - **Java**
+- **Git&GitHub,PostMan**
 
 ## 🌟 Featured Project
 
