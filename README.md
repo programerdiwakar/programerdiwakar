@@ -7,7 +7,7 @@
 - **Java**
 - **Git&GitHub,PostMan**
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 [![Animated-React-Website-](https://github-readme-stats.vercel.app/api/pin/?username=programerdiwakar&repo=Animated-React-Website-&theme=react)](https://github.com/programerdiwakar/Animated-React-Website-)
 
