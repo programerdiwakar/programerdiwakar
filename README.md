@@ -2,7 +2,7 @@
 
 🎓 **Student** passionate about technology and building impactful projects.
 
-## 🚀 Skills
+## Skill
 - **MERN Stack** (MongoDB, Express.js, React, Node.js)
 - **Java**
 - **Git&GitHub,PostMan**
