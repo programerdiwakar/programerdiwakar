@@ -1,4 +1,4 @@
-# Hi there, I'm Diwakar! 👋
+# Hi there, I'm Diwakar! 👋 
 
 🎓 **Student** passionate about technology and building impactful projects.
 
